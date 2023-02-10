@@ -6,4 +6,4 @@ def uppercase(str):
         else:
             caps = ord(str[i])
             print("{}".format(chr(caps)), end=("")
-            print()
+    print()
