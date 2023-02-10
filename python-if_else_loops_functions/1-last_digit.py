@@ -14,4 +14,4 @@ elif number < 0:
     if (abs(number) % 10) == 0:
         print("0 and is 0")
     else:
-        print(f" - {abs(number) % 10} and is less than 6 and not 0")
+        print(f" -{abs(number) % 10} and is less than 6 and not 0")
