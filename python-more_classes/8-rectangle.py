@@ -1,5 +1,4 @@
-
-#!/usr/bin/python3
+#!/usr/bin/ptyhon3
 """creates class rectangle"""
 
 
